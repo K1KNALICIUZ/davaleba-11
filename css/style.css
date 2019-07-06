@@ -31,39 +31,70 @@ header{
 	color: gray;
 }
 .TPWG{
-	margin-left: 220px;
+	margin-left: 200px;
 	color: black;
 	font-size: 30px;
-	padding: 30px;
+	padding: 50px;
 }
 .lorem1{
 	text-align: center;
 	font-size: 15px;
+	margin-right: 150px;
+	margin-left: 150px;
+	margin-bottom: 150px;
+	margin-top: 50px;
+	font-size: 17px;
 }
 .COMMENT{
-	margin-left: 200px;
+	margin-left: 250px;
 	color: gray;
-	padding: 50px;
+	padding: 10px;
 }
 .palma{
 	height:400px;
-	display: flex;
-	justify-content: space-between;
-	padding:40px;
 }
 .black1{
 	height:400px;
-	display: flex;
-	justify-content: space-between;
-	padding: 40px;
 }
 .life{
-	margin-left:280px;
+	margin-left:730px;
 	color: gray;
 }
 .life1{
 	text-align: center;
-	margin-left: 380px;
+	margin-left: 40px;
 	color: gray;
-
+}
+.PP{
+	font-size: 30px;
+	color: black;
+	padding:50px;
+}
+.pp{
+	font-size: 30px;
+	color: black;
+	padding: 50px;
+	margin-right: 50px;
+}
+.picaso{
+	height: 400px;
+}
+.lion{
+	height: 400px;
+}
+.lorem2{
+	text-align:left;
+	justify-content: space-between;
+	font-size: 17px;
+	margin-right: 50px;
+	margin-top: 50px;
+	margin-right: 150px;
+}
+.lorem3{
+	text-align:left;
+	justify-content: space-between;
+	font-size:17px;
+	margin-right: 50px;
+	margin-top: 50px;
+	margin-right:150px;
 }
