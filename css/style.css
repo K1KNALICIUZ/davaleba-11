@@ -1,0 +1,69 @@
+.container{
+	max-width: 1170px;
+	width: 100%;
+	margin: 0 auto;
+}
+.flex{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+header{
+	padding:20px 0;
+}
+.navbar-li{
+	margin-right: 80px;
+	transition: color 0.3s ease;
+	font-size: 20px;
+}
+.navbar-li:hover{
+	color:gray;
+}
+.minimo{
+	height: 100px;
+}
+.face{
+	width:100%;
+	padding: 50px 0;
+}
+.deary{
+	margin-left: 250px;
+	color: gray;
+}
+.TPWG{
+	margin-left: 220px;
+	color: black;
+	font-size: 30px;
+	padding: 30px;
+}
+.lorem1{
+	text-align: center;
+	font-size: 15px;
+}
+.COMMENT{
+	margin-left: 200px;
+	color: gray;
+	padding: 50px;
+}
+.palma{
+	height:400px;
+	display: flex;
+	justify-content: space-between;
+	padding:40px;
+}
+.black1{
+	height:400px;
+	display: flex;
+	justify-content: space-between;
+	padding: 40px;
+}
+.life{
+	margin-left:280px;
+	color: gray;
+}
+.life1{
+	text-align: center;
+	margin-left: 380px;
+	color: gray;
+
+}
